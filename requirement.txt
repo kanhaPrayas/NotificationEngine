@@ -1,0 +1,5 @@
+Django
+MySQL-python
+django-cors-headers
+django-mysql
+pytz
